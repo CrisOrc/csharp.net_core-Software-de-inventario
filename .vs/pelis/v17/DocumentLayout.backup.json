@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\facturasproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\facturasproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\mediospagoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\mediospagoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\usuariossistemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\usuariossistemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\UsuariosSistemas\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\UsuariosSistemas\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\UsuariosSistemas\\Index.cshtml*",
+              "RelativeToolTip": "pelis\\Views\\UsuariosSistemas\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:36:52.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Productos\\Index.cshtml*",
+              "RelativeToolTip": "pelis\\Views\\Productos\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:36:38.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\MediosPagoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\MediosPagoes\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\MediosPagoes\\Index.cshtml*",
+              "RelativeToolTip": "pelis\\Views\\MediosPagoes\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:36:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\FacturasProductos\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\FacturasProductos\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\FacturasProductos\\Index.cshtml*",
+              "RelativeToolTip": "pelis\\Views\\FacturasProductos\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:36:20.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Facturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\Facturas\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Facturas\\Index.cshtml*",
+              "RelativeToolTip": "pelis\\Views\\Facturas\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:36:13.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Clientes\\Index.cshtml*",
+              "RelativeToolTip": "pelis\\Views\\Clientes\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:36:01.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Categorias\\Index.cshtml*",
+              "RelativeToolTip": "pelis\\Views\\Categorias\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:34:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pelis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:13:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "pelis\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:34:27.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
