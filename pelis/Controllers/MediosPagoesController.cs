@@ -22,20 +22,20 @@ namespace pelis.Controllers
         // GET: MediosPagoes
         public async Task<IActionResult> Index(string searchString)
         {
-            if (_context.Movie == null)
+            if (_context.MediosPago == null)
             {
-                return Problem("Entity set 'MvcMovieContext.Movie'  is null.");
+                return Problem("Entity set 'MvcMovieContext.MediosPago' is null.");
             }
 
-            var movies = from m in _context.Movie
-                         select m;
+            var mediosPago = from m in _context.MediosPago
+                             select m;
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                movies = movies.Where(s => s.Title!.ToUpper().Contains(searchString.ToUpper()));
+                mediosPago = mediosPago.Where(m => m.Metodo!.ToUpper().Contains(searchString.ToUpper()));
             }
 
-            return View(await movies.ToListAsync());
+            return View(await mediosPago.ToListAsync());
         }
 
 

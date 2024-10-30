@@ -22,20 +22,20 @@ namespace pelis.Controllers
         // GET: UsuariosSistemas
         public async Task<IActionResult> Index(string searchString)
         {
-            if (_context.Movie == null)
+            if (_context.UsuariosSistema == null)
             {
-                return Problem("Entity set 'MvcMovieContext.Movie'  is null.");
+                return Problem("Entity set 'MvcMovieContext.UsuariosSistema' is null.");
             }
 
-            var movies = from m in _context.Movie
-                         select m;
+            var usuarios = from u in _context.UsuariosSistema
+                           select u;
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                movies = movies.Where(s => s.Title!.ToUpper().Contains(searchString.ToUpper()));
+                usuarios = usuarios.Where(u => u.Username!.ToUpper().Contains(searchString.ToUpper()));
             }
 
-            return View(await movies.ToListAsync());
+            return View(await usuarios.ToListAsync());
         }
 
 

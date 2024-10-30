@@ -22,20 +22,21 @@ namespace pelis.Controllers
         // GET: FacturasProductos
         public async Task<IActionResult> Index(string searchString)
         {
-            if (_context.Movie == null)
+            if (_context.FacturasProductos == null)
             {
-                return Problem("Entity set 'MvcMovieContext.Movie'  is null.");
+                return Problem("Entity set 'MvcMovieContext.FacturasProductos' is null.");
             }
 
-            var movies = from m in _context.Movie
-                         select m;
+            var facturasProductos = from fp in _context.FacturasProductos
+                                    select fp;
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                movies = movies.Where(s => s.Title!.ToUpper().Contains(searchString.ToUpper()));
+                facturasProductos = facturasProductos.Where(fp => fp.FacturaId.ToString().Contains(searchString)
+                                                                || fp.ProductoId.ToString().Contains(searchString));
             }
 
-            return View(await movies.ToListAsync());
+            return View(await facturasProductos.ToListAsync());
         }
 
 

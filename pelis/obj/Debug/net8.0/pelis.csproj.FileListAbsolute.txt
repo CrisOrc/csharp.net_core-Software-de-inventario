@@ -514,3 +514,4 @@ D:\002_PASCUAL\005_SEMESTRE\Herramientas 3\pelis_search\pelis\pelis\obj\Debug\ne
 D:\002_PASCUAL\005_SEMESTRE\Herramientas 3\pelis_search\pelis\pelis\obj\Debug\net8.0\pelis.pdb
 D:\002_PASCUAL\005_SEMESTRE\Herramientas 3\pelis_search\pelis\pelis\obj\Debug\net8.0\pelis.genruntimeconfig.cache
 D:\002_PASCUAL\005_SEMESTRE\Herramientas 3\pelis_search\pelis\pelis\obj\Debug\net8.0\ref\pelis.dll
+D:\002_PASCUAL\005_SEMESTRE\Herramientas 3\pelis_search\pelis\pelis\obj\Debug\net8.0\pelis.sourcelink.json

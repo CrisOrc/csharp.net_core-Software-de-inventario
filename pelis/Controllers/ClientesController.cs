@@ -22,20 +22,20 @@ namespace pelis.Controllers
         // GET: Clientes
         public async Task<IActionResult> Index(string searchString)
         {
-            if (_context.Movie == null)
+            if (_context.Clientes == null)
             {
-                return Problem("Entity set 'MvcMovieContext.Movie'  is null.");
+                return Problem("Entity set 'MvcMovieContext.Clientes' is null.");
             }
 
-            var movies = from m in _context.Movie
-                         select m;
+            var clientes = from c in _context.Clientes
+                           select c;
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                movies = movies.Where(s => s.Title!.ToUpper().Contains(searchString.ToUpper()));
+                clientes = clientes.Where(c => c.Nombre!.ToUpper().Contains(searchString.ToUpper()));
             }
 
-            return View(await movies.ToListAsync());
+            return View(await clientes.ToListAsync());
         }
 
 

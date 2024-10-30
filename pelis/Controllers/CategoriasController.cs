@@ -22,20 +22,20 @@ namespace pelis.Controllers
         // GET: Categorias
         public async Task<IActionResult> Index(string searchString)
         {
-            if (_context.Movie == null)
+            if (_context.Categorias == null)
             {
-                return Problem("Entity set 'MvcMovieContext.Movie'  is null.");
+                return Problem("Entity set 'MvcMovieContext.Categorias' is null.");
             }
 
-            var movies = from m in _context.Movie
-                         select m;
+            var categorias = from c in _context.Categorias
+                             select c;
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                movies = movies.Where(s => s.Title!.ToUpper().Contains(searchString.ToUpper()));
+                categorias = categorias.Where(c => c.Nombre!.ToUpper().Contains(searchString.ToUpper()));
             }
 
-            return View(await movies.ToListAsync());
+            return View(await categorias.ToListAsync());
         }
 
 
