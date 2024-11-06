@@ -1,12 +1,20 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using pelis.Data;
+using DinkToPdf;
+using DinkToPdf.Contracts;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<pelisContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("pelisContext") ?? throw new InvalidOperationException("Connection string 'pelisContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+builder.Services.AddSingleton(typeof(IConverter), new SynchronizedConverter(new PdfTools()));
+
+
 
 var app = builder.Build();
 

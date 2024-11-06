@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\views\\report\\reporttemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\views\\report\\reporttemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\facturasproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\facturasproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +35,12 @@
       "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\mediospagoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\usuariossistemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\usuariossistemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|solutionrelative:pelis\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E3FC59B-09A0-4196-BCE7-8C99A9255E10}|pelis\\pelis.csproj|d:\\002_pascual\\005_semestre\\herramientas 3\\pelis_search\\pelis\\pelis\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +54,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "pelis\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "pelis\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:07:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportTemplate.cshtml",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Report\\ReportTemplate.cshtml",
+              "RelativeDocumentMoniker": "pelis\\Views\\Report\\ReportTemplate.cshtml",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Views\\Report\\ReportTemplate.cshtml",
+              "RelativeToolTip": "pelis\\Views\\Report\\ReportTemplate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T16:03:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Program.cs",
+              "RelativeDocumentMoniker": "pelis\\Program.cs",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Program.cs",
+              "RelativeToolTip": "pelis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:54:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FacturasProductosController.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\FacturasProductosController.cs",
               "RelativeDocumentMoniker": "pelis\\Controllers\\FacturasProductosController.cs",
@@ -59,20 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FacturasController.cs",
-              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\FacturasController.cs",
-              "RelativeDocumentMoniker": "pelis\\Controllers\\FacturasController.cs",
-              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\FacturasController.cs",
-              "RelativeToolTip": "pelis\\Controllers\\FacturasController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:30:14.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MediosPagoesController.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\MediosPagoesController.cs",
               "RelativeDocumentMoniker": "pelis\\Controllers\\MediosPagoesController.cs",
@@ -80,25 +122,24 @@
               "RelativeToolTip": "pelis\\Controllers\\MediosPagoesController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:28:53.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T19:28:53.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "pelis\\Controllers\\CategoriasController.cs",
               "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "pelis\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T19:28:25.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "pelis\\Controllers\\ClientesController.cs",
@@ -106,12 +147,36 @@
               "RelativeToolTip": "pelis\\Controllers\\ClientesController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA1wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:28:00.631Z",
+              "WhenOpened": "2024-10-30T19:28:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "pelis\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "pelis\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:19:29.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "pelis\\Controllers\\FacturasController.cs",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "pelis\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:30:14.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UsuariosSistemasController.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\UsuariosSistemasController.cs",
               "RelativeDocumentMoniker": "pelis\\Controllers\\UsuariosSistemasController.cs",
@@ -119,12 +184,11 @@
               "RelativeToolTip": "pelis\\Controllers\\UsuariosSistemasController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:27:37.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T19:27:37.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "pelis\\Controllers\\MoviesController.cs",
@@ -132,25 +196,7 @@
               "RelativeToolTip": "pelis\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:21:43.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "pelis\\Controllers\\ProductosController.cs",
-              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "pelis\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:19:29.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T19:21:43.36Z"
             }
           ]
         }

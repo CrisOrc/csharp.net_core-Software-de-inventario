@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pelis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+536f98adf4eb6627cf2ccf12a8d1b6374e6f1077")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c0690dbfe426799ef0df161c929ef53022edaa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("pelis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pelis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
