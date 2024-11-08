@@ -5,11 +5,16 @@ namespace pelis.Models
 {
     public class FacturasProductos
     {
-        [Key, Column(Order = 0)]
+        [Key, Column(Order = 0)] 
+
         [ForeignKey("Facturas")]
         public int FacturaId { get; set; }
         public Facturas Factura { get; set; } // Navegación a Factura
-        public int ProductoId { get; set; }
+
+        [ForeignKey("Productos")]
+        public int? ProductoId { get; set; }
+        public virtual Productos? Productos { get; set; }
+
         public int Cantidad { get; set; }
 
         public double Precio { get; set; }

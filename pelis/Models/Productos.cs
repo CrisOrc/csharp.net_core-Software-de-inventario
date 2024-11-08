@@ -21,7 +21,9 @@ namespace pelis.Models
 
         public int Stock { get; set; }
 
-        public int CategoriaId { get; set; }
+        [ForeignKey("Categorias")]
+        public int? CategoriaId { get; set; }
+        public virtual Categorias? Categoria { get; set; }
     }
 }
     
