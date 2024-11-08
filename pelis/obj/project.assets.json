@@ -11682,23 +11682,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\pelis.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
       "projectName": "pelis",
-      "projectPath": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\pelis.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\002_PASCUAL\\005_SEMESTRE\\Herramientas 3\\pelis_search\\pelis\\pelis\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11773,7 +11773,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

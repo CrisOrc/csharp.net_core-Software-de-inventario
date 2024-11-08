@@ -17,211 +17,211 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = pelis
 build_property.RootNamespace = pelis
-build_property.ProjectDir = D:\002_PASCUAL\005_SEMESTRE\Herramientas 3\pelis_search\pelis\pelis\
+build_property.ProjectDir = C:\Users\ASUS\OneDrive\Escritorio\HDP3\csharp.net_core-Software-de-inventario\pelis\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\002_PASCUAL\005_SEMESTRE\Herramientas 3\pelis_search\pelis\pelis
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Escritorio\HDP3\csharp.net_core-Software-de-inventario\pelis
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Categorias/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Categorias/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Categorias/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Categorias/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Categorias/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Clientes/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Clientes/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Clientes/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Clientes/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Clientes/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/FacturasProductos/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/FacturasProductos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNQcm9kdWN0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/FacturasProductos/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/FacturasProductos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNQcm9kdWN0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/FacturasProductos/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/FacturasProductos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNQcm9kdWN0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/FacturasProductos/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/FacturasProductos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNQcm9kdWN0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/FacturasProductos/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/FacturasProductos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNQcm9kdWN0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Facturas/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Facturas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Facturas/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Facturas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Facturas/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Facturas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Facturas/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Facturas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Facturas/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Facturas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Home/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Home/Privacy.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/MediosPagoes/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/MediosPagoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaW9zUGFnb2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/MediosPagoes/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/MediosPagoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaW9zUGFnb2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/MediosPagoes/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/MediosPagoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaW9zUGFnb2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/MediosPagoes/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/MediosPagoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaW9zUGFnb2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/MediosPagoes/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/MediosPagoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaW9zUGFnb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Movies/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Movies/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Movies/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Movies/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Movies/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Productos/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Productos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Productos/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Productos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Productos/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Productos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Productos/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Productos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Productos/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Productos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Report/ReportTemplate.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Report/ReportTemplate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFJlcG9ydFRlbXBsYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Saludo/Multiplevista.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Saludo/Multiplevista.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsdWRvXE11bHRpcGxldmlzdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Shared/Error.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/UsuariosSistemas/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/UsuariosSistemas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NTaXN0ZW1hc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/UsuariosSistemas/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/UsuariosSistemas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NTaXN0ZW1hc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/UsuariosSistemas/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/UsuariosSistemas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NTaXN0ZW1hc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/UsuariosSistemas/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/UsuariosSistemas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NTaXN0ZW1hc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/UsuariosSistemas/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/UsuariosSistemas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NTaXN0ZW1hc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Varios/Suma.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Varios/Suma.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFyaW9zXFN1bWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/_ViewImports.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/_ViewStart.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/002_PASCUAL/005_SEMESTRE/Herramientas 3/pelis_search/pelis/pelis/Views/Shared/_Layout.cshtml]
+[C:/Users/ASUS/OneDrive/Escritorio/HDP3/csharp.net_core-Software-de-inventario/pelis/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eafmtxmdkh
