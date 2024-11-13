@@ -104,17 +104,17 @@ namespace pelis.Migrations
 
             modelBuilder.Entity("pelis.Models.FacturasProductos", b =>
                 {
-                    b.Property<int>("FacturaId")
+                    b.Property<int>("FacturaId1")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasColumnOrder(0);
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FacturaId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FacturaId1"));
 
                     b.Property<int>("Cantidad")
                         .HasColumnType("int");
 
-                    b.Property<int>("FacturaId1")
+                    b.Property<int>("FacturaId")
                         .HasColumnType("int");
 
                     b.Property<double>("Precio")
@@ -127,9 +127,11 @@ namespace pelis.Migrations
                     b.Property<int>("ProductoId")
                         .HasColumnType("int");
 
-                    b.HasKey("FacturaId");
+                    b.HasKey("FacturaId1");
 
-                    b.HasIndex("FacturaId1");
+                    b.HasIndex("FacturaId");
+
+                    b.HasIndex("ProductoId");
 
                     b.ToTable("FacturasProductos");
                 });
@@ -185,7 +187,7 @@ namespace pelis.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoriaId")
+                    b.Property<int?>("CategoriaId")
                         .HasColumnType("int");
 
                     b.Property<string>("Descripcion")
@@ -210,6 +212,8 @@ namespace pelis.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("CategoriaId");
 
                     b.ToTable("Productos");
                 });
@@ -278,11 +282,28 @@ namespace pelis.Migrations
                 {
                     b.HasOne("pelis.Models.Facturas", "Factura")
                         .WithMany()
-                        .HasForeignKey("FacturaId1")
+                        .HasForeignKey("FacturaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("pelis.Models.Productos", "Producto")
+                        .WithMany()
+                        .HasForeignKey("ProductoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Factura");
+
+                    b.Navigation("Producto");
+                });
+
+            modelBuilder.Entity("pelis.Models.Productos", b =>
+                {
+                    b.HasOne("pelis.Models.Categorias", "Categoria")
+                        .WithMany()
+                        .HasForeignKey("CategoriaId");
+
+                    b.Navigation("Categoria");
                 });
 #pragma warning restore 612, 618
         }

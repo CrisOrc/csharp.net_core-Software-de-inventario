@@ -27,7 +27,7 @@ namespace pelis.Controllers
                 return Problem("Entity set 'MvcMovieContext.Productos' is null.");
             }
 
-            var productos = from p in _context.Productos
+            var productos = from p in _context.Productos.Include(p => p.Categoria)
                             select p;
 
             if (!String.IsNullOrEmpty(searchString))
@@ -60,12 +60,14 @@ namespace pelis.Controllers
         // GET: Productos/Create
         public IActionResult Create()
         {
+            var categorias = _context.Categorias.ToList();
+
+            ViewBag.Categorias = new SelectList(categorias, "Id", "Nombre");
+
             return View();
         }
 
-        // POST: Productos/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+    
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nombre,Descripcion,Marca,Precio,Stock,CategoriaId")] Productos productos)
@@ -94,6 +96,22 @@ namespace pelis.Controllers
             }
             return View(productos);
         }
+
+        [HttpPost]
+        public IActionResult CrearProducto(Productos producto)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Productos.Add(producto);
+                _context.SaveChanges();
+                return RedirectToAction("Index"); // Redirige a la lista de productos u otra vista después de guardar
+            }
+
+            // Si ocurre un error, recarga la lista de categorías
+            ViewBag.Categorias = new SelectList(_context.Categorias.ToList(), "Id", "Nombre");
+            return View(producto);
+        }
+
 
         // POST: Productos/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.

@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {}
+    "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {
+    "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
+        "projectUniqueName": "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
         "projectName": "pelis",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\HDP3\\csharp.net_core-Software-de-inventario\\pelis\\obj\\",
+        "projectPath": "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
+        "packagesPath": "C:\\Users\\okmar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\okmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -92,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

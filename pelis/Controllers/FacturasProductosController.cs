@@ -32,8 +32,21 @@ namespace pelis.Controllers
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                facturasProductos = facturasProductos.Where(fp => fp.FacturaId.ToString().Contains(searchString)
-                                                                || fp.ProductoId.ToString().Contains(searchString));
+                // Intentamos convertir searchString a entero para hacer la comparación
+                int searchInt;
+                bool isNumeric = int.TryParse(searchString, out searchInt);
+
+                if (isNumeric)
+                {
+                    // Si es un número, comparamos con FacturaId o ProductoId
+                    facturasProductos = facturasProductos.Where(fp => fp.FacturaId == searchInt || fp.ProductoId == searchInt);
+                }
+                else
+                {
+                    // Si no es numérico, se pueden realizar búsquedas por otros campos, como el nombre del producto
+                    // Si quieres buscar por nombre de producto, por ejemplo, puedes hacerlo así:
+                    facturasProductos = facturasProductos.Where(fp => fp.Producto.Nombre.Contains(searchString));
+                }
             }
 
             return View(await facturasProductos.ToListAsync());
@@ -61,12 +74,12 @@ namespace pelis.Controllers
         // GET: FacturasProductos/Create
         public IActionResult Create()
         {
+            ViewData["FacturaId"] = new SelectList(_context.Facturas, "Id", "Nombre");  // Cambia "Nombre" por el campo que quieres mostrar de Facturas
+            ViewData["ProductoId"] = new SelectList(_context.Productos, "Id", "Nombre");  // Cambia "Nombre" por el campo que quieres mostrar de Productos
             return View();
         }
 
-        // POST: FacturasProductos/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+     
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("FacturaId,ProductoId,Cantidad,Precio,PrecioTotal")] FacturasProductos facturasProductos)
@@ -94,11 +107,8 @@ namespace pelis.Controllers
                 return NotFound();
             }
             return View(facturasProductos);
-        }
+        }   
 
-        // POST: FacturasProductos/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("FacturaId,ProductoId,Cantidad,Precio,PrecioTotal")] FacturasProductos facturasProductos)
@@ -168,5 +178,20 @@ namespace pelis.Controllers
         {
             return _context.FacturasProductos.Any(e => e.FacturaId == id);
         }
+
+        [HttpPost]
+
+        public async Task<IActionResult> Crear(FacturasProductos facturasProductos)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Add(facturasProductos);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(facturasProductos);
+        }
+ 
     }
 }

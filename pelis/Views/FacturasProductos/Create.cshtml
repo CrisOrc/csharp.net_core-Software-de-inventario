@@ -12,21 +12,38 @@
     <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Combo de FacturaId -->
+            <div class="form-group">
+                <label asp-for="FacturaId" class="control-label"></label>  <!-- Usa FacturaId, no FacturaId1 -->
+                <select asp-for="FacturaId" class="form-control" asp-items="@(ViewData["FacturaId"] as SelectList)"></select>
+                <span asp-validation-for="FacturaId" class="text-danger"></span>  <!-- Usa FacturaId -->
+            </div>
+
+            <!-- Combo de ProductoId -->
             <div class="form-group">
                 <label asp-for="ProductoId" class="control-label"></label>
-                <input asp-for="ProductoId" class="form-control" />
+                <select asp-for="ProductoId" class="form-control" asp-items="@(ViewData["ProductoId"] as SelectList)"></select>
+
+
                 <span asp-validation-for="ProductoId" class="text-danger"></span>
             </div>
+
+            <!-- Campo de Cantidad -->
             <div class="form-group">
                 <label asp-for="Cantidad" class="control-label"></label>
                 <input asp-for="Cantidad" class="form-control" />
                 <span asp-validation-for="Cantidad" class="text-danger"></span>
             </div>
+
+            <!-- Campo de Precio -->
             <div class="form-group">
                 <label asp-for="Precio" class="control-label"></label>
                 <input asp-for="Precio" class="form-control" />
                 <span asp-validation-for="Precio" class="text-danger"></span>
             </div>
+
+            <!-- Submit Button -->
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -39,5 +56,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
