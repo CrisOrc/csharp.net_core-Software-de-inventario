@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {}
+    "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {
+    "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
+        "projectUniqueName": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
         "projectName": "pelis",
-        "projectPath": "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
-        "packagesPath": "C:\\Users\\okmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\okmar\\Downloads\\PROYECTOS C#\\.net core\\csharp.net_core-Software-de-inventario\\pelis\\obj\\",
+        "projectPath": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\pelis.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\okmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

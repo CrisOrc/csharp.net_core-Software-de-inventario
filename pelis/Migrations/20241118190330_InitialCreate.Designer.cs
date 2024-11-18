@@ -12,7 +12,7 @@ using pelis.Data;
 namespace pelis.Migrations
 {
     [DbContext(typeof(pelisContext))]
-    [Migration("20241113192426_InitialCreate")]
+    [Migration("20241118190330_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -107,17 +107,17 @@ namespace pelis.Migrations
 
             modelBuilder.Entity("pelis.Models.FacturasProductos", b =>
                 {
-                    b.Property<int>("FacturaId1")
+                    b.Property<int>("FacturaId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasColumnOrder(0);
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FacturaId1"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FacturaId"));
 
                     b.Property<int>("Cantidad")
                         .HasColumnType("int");
 
-                    b.Property<int>("FacturaId")
+                    b.Property<int>("FacturaId1")
                         .HasColumnType("int");
 
                     b.Property<double>("Precio")
@@ -130,9 +130,9 @@ namespace pelis.Migrations
                     b.Property<int>("ProductoId")
                         .HasColumnType("int");
 
-                    b.HasKey("FacturaId1");
+                    b.HasKey("FacturaId");
 
-                    b.HasIndex("FacturaId");
+                    b.HasIndex("FacturaId1");
 
                     b.HasIndex("ProductoId");
 
@@ -285,7 +285,7 @@ namespace pelis.Migrations
                 {
                     b.HasOne("pelis.Models.Facturas", "Factura")
                         .WithMany()
-                        .HasForeignKey("FacturaId")
+                        .HasForeignKey("FacturaId1")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

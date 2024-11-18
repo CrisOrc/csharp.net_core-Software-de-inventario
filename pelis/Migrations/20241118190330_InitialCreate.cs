@@ -10,7 +10,7 @@ namespace pelis.Migrations
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
-        {   
+        {
             migrationBuilder.CreateTable(
                 name: "Categorias",
                 columns: table => new
@@ -146,9 +146,9 @@ namespace pelis.Migrations
                 name: "FacturasProductos",
                 columns: table => new
                 {
-                    FacturaId1 = table.Column<int>(type: "int", nullable: false)
+                    FacturaId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    FacturaId = table.Column<int>(type: "int", nullable: false),
+                    FacturaId1 = table.Column<int>(type: "int", nullable: false),
                     ProductoId = table.Column<int>(type: "int", nullable: false),
                     Cantidad = table.Column<int>(type: "int", nullable: false),
                     Precio = table.Column<double>(type: "float", nullable: false),
@@ -156,10 +156,10 @@ namespace pelis.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_FacturasProductos", x => x.FacturaId1);
+                    table.PrimaryKey("PK_FacturasProductos", x => x.FacturaId);
                     table.ForeignKey(
-                        name: "FK_FacturasProductos_Facturas_FacturaId",
-                        column: x => x.FacturaId,
+                        name: "FK_FacturasProductos_Facturas_FacturaId1",
+                        column: x => x.FacturaId1,
                         principalTable: "Facturas",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -187,9 +187,9 @@ namespace pelis.Migrations
                 column: "MedioPagoId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_FacturasProductos_FacturaId",
+                name: "IX_FacturasProductos_FacturaId1",
                 table: "FacturasProductos",
-                column: "FacturaId");
+                column: "FacturaId1");
 
             migrationBuilder.CreateIndex(
                 name: "IX_FacturasProductos_ProductoId",
