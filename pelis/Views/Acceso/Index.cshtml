@@ -1,0 +1,29 @@
+﻿@model pelis.Models.UsuariosSistema
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+    <title>Login</title>
+</head>
+<body>
+    <form method="post" asp-controller="Acceso" asp-action="Index">
+        <div>
+            <label for="username">Usuario:</label>
+            <input type="text" id="username" name="username" required asp-for="Username">
+        </div>
+        <div>
+            <label for="PasswordHash">Contraseña:</label>
+            <input type="password" id="PasswordHash" name="PasswordHash" required asp-for="PasswordHash">
+        </div>
+        <div>
+            <button type="submit">Iniciar sesión</button>
+        </div>
+    </form>
+
+</body>
+</html>

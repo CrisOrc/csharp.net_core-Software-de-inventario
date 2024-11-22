@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\home\university\2024-2\HdeP3\app-final\csharp.net_core-Software-de-inventario\pelis
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/home/university/2024-2/HdeP3/app-final/csharp.net_core-Software-de-inventario/pelis/Views/Acceso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/home/university/2024-2/HdeP3/app-final/csharp.net_core-Software-de-inventario/pelis/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

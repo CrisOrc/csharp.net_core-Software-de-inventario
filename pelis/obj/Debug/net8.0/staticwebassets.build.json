@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8bZE+ivXufF5lQHIehqi3w8tWTj81Qc9uceOkQVl5/4=",
+  "Hash": "oJ/YuWiH5jLdlXJgd1p4Sf0Ei3jBKg3eTYM9Mpzb7Ck=",
   "Source": "pelis",
   "BasePath": "_content/pelis",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\pelis.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\wwwroot\\css\\login.css",
+      "SourceId": "pelis",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\wwwroot\\",
+      "BasePath": "_content/pelis",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
       "Identity": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\wwwroot\\css\\site.css",

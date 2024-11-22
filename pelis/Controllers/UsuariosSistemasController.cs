@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using pelis.Data;
 using pelis.Models;
+using pelis.Data;
 
 namespace pelis.Controllers
 {
@@ -72,6 +73,7 @@ namespace pelis.Controllers
         {
             if (ModelState.IsValid)
             {
+                usuariosSistema.PasswordHash = Logic.EncriptarClave(usuariosSistema.PasswordHash);
                 _context.Add(usuariosSistema);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

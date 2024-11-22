@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\pelis.bundle.scp.css"
     },
     {
+      "Id": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\home\\university\\2024-2\\HdeP3\\app-final\\csharp.net_core-Software-de-inventario\\pelis\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
